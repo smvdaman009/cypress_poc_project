@@ -15,6 +15,8 @@ public class AA_Lifo_Demo {
 			System.out.println(a[k]);
 			
 		}
+		
+		
 	}
 	public static void main(String[] args) {
 
