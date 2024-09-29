@@ -10,7 +10,7 @@ public class D_Even_Odd_count_Demo {
 		int a =10;
 		int b=20;
 		int c= a+b;
-		System.out.println(c);
+		//kkjhn
 		System.out.println(c);
 	}
 

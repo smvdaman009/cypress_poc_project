@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class B_Vowel_Consonent_Demo {
 
 	public void getdata() {
+		
+		
 		char a[] = new char[5];
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Please enter char");

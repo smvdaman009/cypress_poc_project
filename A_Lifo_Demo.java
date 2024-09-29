@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class A_Lifo_Demo {
 	public void getdata() {
+		
+		///kjhuigyugiugytfg
 		int a[] = new int[5];
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Please enter the input ");
