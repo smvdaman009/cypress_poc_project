@@ -11,6 +11,7 @@ public class D_Even_Odd_count_Demo {
 		int b=20;
 		int c= a+b;
 		System.out.println(c);
+		System.out.println(c);
 	}
 
 }

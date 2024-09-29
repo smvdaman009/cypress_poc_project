@@ -17,7 +17,7 @@ public class B_Vowel_Consonent_Demo {
 				
 			}
 			else {
-				System.out.println(a[k]+ " consonent");
+				System.out.println(a[k]+ " is consonent");
 			}
 		}
 	}

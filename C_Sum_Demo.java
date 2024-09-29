@@ -3,8 +3,6 @@ package array_prog;
 import java.util.Scanner;
 
 public class C_Sum_Demo {
-
-	int z=0;
 	public void getdata() {
 		
 		int num=0;
