@@ -14,9 +14,10 @@ public class B_Vowel_Consonent_Demo {
 		for(char k=0;k<=4;k++) {
 			if(a[k]=='a'|a[k]=='e'|a[k]=='i'|a[k]=='o'|a[k]=='u') {
 				System.out.println(a[k]+ " is vowel");
+				
 			}
 			else {
-				System.out.println(a[k]+ " is consonent");
+				System.out.println(a[k]+ " consonent");
 			}
 		}
 	}

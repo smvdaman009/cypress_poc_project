@@ -13,6 +13,7 @@ public class AA_Lifo_Demo {
 		}
 		for(int k=4;k>=0;k--) {
 			System.out.println(a[k]);
+			
 		}
 	}
 	public static void main(String[] args) {

@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class C_Sum_Demo {
 
+	int z=0;
 	public void getdata() {
+		
 		int num=0;
 		int a[] = new int[5];
 		Scanner sc = new Scanner(System.in);
