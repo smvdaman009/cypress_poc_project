@@ -16,8 +16,6 @@ public class A_Lifo_Demo {
 			System.out.println(a[k]);
 		}
 	}
-	
-
 	public static void main(String[] args) {
 
 		A_Lifo_Demo ob = new A_Lifo_Demo();
